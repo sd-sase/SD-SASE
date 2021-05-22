@@ -15,6 +15,5 @@
   <description>Software Defined SASE as a Service</description>  
   <url>https://www.sd-sase.com</url>
   <modules>   
-  </modules>
- 
+  </modules> 
 </project>
