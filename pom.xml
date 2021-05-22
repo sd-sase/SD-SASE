@@ -15,6 +15,6 @@
   <description>Software Defined SASE as a Service</description>  
   <url>https://www.sd-sase.com</url>
   <modules>
-    <module>SD-DB-GW</module>
+    <!-- <module>SD-DB-GW</module> -->
   </modules> 
 </project>
